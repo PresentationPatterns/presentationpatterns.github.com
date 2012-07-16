@@ -54,6 +54,10 @@ a[href^="http://"]:after{
 	height: 1em;
 }
 
+article section{
+	overflow: auto;
+}
+
 article section a{
 	text-decoration: underline;
 }
