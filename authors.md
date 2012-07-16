@@ -20,7 +20,7 @@ tagline:
 	</section>
 	
 	<section>
-		<figure><img src="images/module/authors/matthew-mccullough" alt="Matthew McCullough" /><figcaption>Matthew McCullough</figcaption></figure>
+		<figure><img src="images/module/authors/matthew-mccullough.jpg" alt="Matthew McCullough" /><figcaption>Matthew McCullough</figcaption></figure>
 		<h2>Matthew McCullough</h2>
 		<p>Matthew McCullough is an energetic 14 year veteran of enterprise software development, open source education, and co-founder of <a href="http://ambientideas.com">Ambient Ideas, LLC</a>, a Denver consultancy.  Matthew currently is a member of the <a href="http://jcp.org/en/home/index">JCP</a>, reviewer for technology publishers including <a href="http://oreilly.com">O'Reilly</a>, author of the upcoming <a href="http://presentationpatterns.com">Presentation Patterns &amp; Anti-Patterns book</a>, multi-year speaker on the <a href="http://nofluffjuststuff.com">No Fluff Just Stuff tour</a>, author of the <a href="http://refcardz.dzone.com/refcardz/apache-maven-2">DZone Maven</a>, Git &amp; <a href="http://refcardz.dzone.com/refcardz/google-app-engine-java">Google App Engine RefCards</a>.  He channels his teaching energy through activities as President of the <a href="http://denveropensource.org">Denver Open Source Users Group</a>.</p>
 		
