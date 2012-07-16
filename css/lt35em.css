@@ -1,0 +1,199 @@
+#container{
+
+	}
+	
+	#logo{
+		background: url(../images/layout/logo.png) no-repeat center center #fff;
+		background: url(../images/layout/logo.png) no-repeat 65% center, url(../images/module/home/background-tagline.jpg) no-repeat 33% top #F3F4F6;
+		background-size: auto 70%, auto 100%;
+		height:  5em;
+		width: 100%;
+		border-bottom: 1px solid #ddd;
+	}
+		#logo span{
+			/*Knock out of flow and hide*/
+			visibility:  hidden;
+			float: left;
+			text-indent: -9999px;
+		}
+		
+	header{
+		clear: both;
+		overflow:  auto;
+		background: #fff;
+
+		box-shadow: 0 0 .5em #666;
+		box-shadow: 0 0 .5em #666;
+		box-shadow: 0 0 .5em #666;
+		box-shadow: 0 0 .5em #666;
+		box-shadow: 0 0 .5em #666;
+	}
+	
+	header .cap{
+		background: #c13b29;
+		height:  5px;
+	}
+	
+	header .navHelper, header .blogTicker{
+		/*Knock out of flow and hide*/
+		visibility:  hidden;
+		float: left;
+		text-indent: -9999px;
+	}
+	
+	header .navHelper ul{
+		/*Knock out of flow and hide*/
+		visibility:  hidden;
+		float: left;
+		text-indent: -9999px;
+	}
+	
+		header .navHelper ul li{}
+	
+	header .blogTicker ul{
+		display: inline;
+	}
+		header .blogTicker ul li{
+
+		}
+	
+	nav{
+		
+	}
+		nav ul{
+			display: inline;
+		}
+		
+		nav ul li{
+			margin-top:  .5em;
+			padding-bottom: .5em;
+			border-bottom: solid 1px #ddd;
+		}
+		nav ul li:last-child{
+			border:  none;
+		}
+			nav ul li h1{
+				margin-left:  22%;
+				border-bottom:  solid 3px #1aaae3;
+			}
+
+			nav ul li p{
+				margin:  0 0 0 22%;
+			}
+			
+			nav .book{
+				background: url(../images/module/nav/book.png) no-repeat 3% top;
+				-ms-background-size: auto auto;
+				-moz-background-size: auto auto;
+				-webkit-background-size: auto auto;
+				-o-background-size: auto auto;
+				background-size: auto auto;
+			}
+			
+			nav .glossary{
+				background: url(../images/module/nav/glossary.png) no-repeat 3% top;
+				-ms-background-size: auto auto;
+				-moz-background-size: auto auto;
+				-webkit-background-size: auto auto;
+				-o-background-size: auto auto;
+				background-size: auto auto;
+			}
+			
+			nav .samples{
+				background: url(../images/module/nav/samples.png) no-repeat 3% top;
+				-ms-background-size: auto auto;
+				-moz-background-size: auto auto;
+				-webkit-background-size: auto auto;
+				-o-background-size: auto auto;
+				background-size: auto auto;
+			}
+			
+			nav .authors{
+				background: url(../images/module/nav/authors.png) no-repeat 3% top;
+				-ms-background-size: auto auto;
+				-moz-background-size: auto auto;
+				-webkit-background-size: auto auto;
+				-o-background-size: auto auto;
+				background-size: auto auto;
+			}
+			
+			nav .blog{
+				background: url(../images/module/nav/blog.png) no-repeat 3% top;
+				-ms-background-size: auto auto;
+				-moz-background-size: auto auto;
+				-webkit-background-size: auto auto;
+				-o-background-size: auto auto;
+				background-size: auto auto;
+			}
+	
+	article.tagline{
+		/*Actually want this not-visible even to screen readers*/
+		display: none;
+	}
+		article.tagline h1{
+
+		}
+		article.tagline p{
+			/*Knock out of flow and hide*/
+			visibility:  hidden;
+			float: left;
+			text-indent: -9999px;
+		}
+		
+	.featured article{
+		background: #fff;
+		margin: 2% 0;
+		padding: 3%;
+		border-top: solid 1px #ddd;
+		border-bottom: solid 1px #ddd;
+		
+		-ms-box-shadow: 0 0 .25em #ccc;
+		-moz-box-shadow: 0 0 .25em #ccc;
+		-webkit-box-shadow: 0 0 .25em #ccc;
+		-o-box-shadow: 0 0 .25em #ccc;
+		box-shadow: 0 0 .25em #ccc;
+	}
+	
+	
+article{
+	padding: 1%;
+	overflow: hidden;
+}
+
+article section{
+	margin: 1% 1%;
+	background:  #fff;
+	padding: 1%;
+	border: solid 1px #ddd;
+}
+	article h1{
+		border-bottom: solid 4px #1aaae3;
+	}
+	article section h2{
+		padding: 0 2%;
+	}
+	article section p{
+		padding:  2%;
+	}
+
+
+
+/*Hiding for Mobile and Desktop*/
+.top header nav ul li{
+	float: left;
+	width: 20%;
+	background-position: center top;
+	text-align: center;
+}
+	.top header nav ul li h1{
+		padding: 4em 0 0 0;
+		margin: 0;
+		font-size: .9em;
+		border: none;
+	}
+	.top header nav ul li p{
+		display:  none;
+	}
+.bottom header #logo, .bottom header .cap{
+	display: none;
+}
