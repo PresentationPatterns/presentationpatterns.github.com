@@ -139,6 +139,17 @@
 			float: left;
 			text-indent: -9999px;
 		}
+
+	figure{
+		margin: auto auto;
+		float: none;
+	}
+		figure.max{
+			max-width:8em;
+		}
+		figure figcaption{
+			text-indent: -9999px;
+		}
 		
 	.featured article{
 		background: #fff;

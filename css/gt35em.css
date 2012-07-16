@@ -179,6 +179,13 @@ article.tagline{
 	article.tagline p{
 		margin-left: 30%;
 	}
+
+figure{
+	float: right;
+}
+	figure.max{
+		max-width:12em;
+	}
 	
 .featured{
 	clear: both;

@@ -59,9 +59,7 @@ article section a{
 }
 
 figure{
-	float: right;
-	
-	
+	/*float: right;*/
 }
 	article section figure{
 		/*margin-top: -.5em;
@@ -90,6 +88,9 @@ figure img{
 	-o-box-shadow: 1px 1px .5em #999;
 	box-shadow: 1px 1px .5em #999;
 }
+	figure.max{
+		/*max-width:8em;*/
+	}
 
 small{
 	padding: .5em 0;
