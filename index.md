@@ -17,21 +17,21 @@ tagline:
 
 <span class="featured">
 	<article>
-		<h1>Box One Title</h1>
+		<h1>Why patterns?</h1>
 		<p>
 			Quisque diam tortor, adipiscing eu dictum sit amet, porta a felis. Aliquam erat volutpat. Sed pharetra lobortis risus vitae vehicula. Maecenas non sodales tellus. Fusce semper viverra commodo. Nam adipiscing lorem vel dolor pellentesque a ornare orci blandit.
 		</p>
 	</article>
 	
 	<article>
-		<h1>Box Two Title</h1>
+		<h1>What is a pattern?</h1>
 		<p>
 			Quisque diam tortor, adipiscing eu dictum sit amet, porta a felis. Aliquam erat volutpat. Sed pharetra lobortis risus vitae vehicula. Maecenas non sodales tellus. Fusce semper viverra commodo. Nam adipiscing lorem vel dolor pellentesque a ornare orci blandit.
 		</p>
 	</article>
 	
 	<article >
-		<h1>Box Three Title</h1>
+		<h1>How do you use a pattern?</h1>
 		<p>
 			Quisque diam tortor, adipiscing eu dictum sit amet, porta a felis. Aliquam erat volutpat. Sed pharetra lobortis risus vitae vehicula. Maecenas non sodales tellus. Fusce semper viverra commodo. Nam adipiscing lorem vel dolor pellentesque a ornare orci blandit.
 		</p>
