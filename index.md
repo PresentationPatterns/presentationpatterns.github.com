@@ -11,7 +11,7 @@ tagline:
 		Aliquam sit amet erat quam, id rutrum risus. Nam diam ante, tincidunt id suscipit et, pharetra at lectus. Nam tempus luctus condimentum. In mollis cursus ultricies. Quisque porttitor lacus eu massa vulputate a volutpat mauris pellentesque.
 	</p>
 	<p class="buttonSet">
-		<a href="book.html">Read More</a>
+		<a href="book.html">Read more</a>
 	</p>
 </article>
 
