@@ -1,8 +1,7 @@
 ---
 layout: fullNav
-pageName: glossary
-title:
-tagline: 
+title: Glossary
+tagline: Glossary of Patterns
 ---
 
 <article>

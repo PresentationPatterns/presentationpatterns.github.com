@@ -1,8 +1,8 @@
 ---
 layout: fullNav
 pageName: authors
-title:
-tagline: 
+title: Authors
+tagline: Author Biographies
 ---
 
 <article>

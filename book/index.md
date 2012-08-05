@@ -1,8 +1,7 @@
 ---
 layout: fullNav
-pageName: blog
-title:
-tagline: 
+title: The Book
+tagline: All About the Book
 ---
 
 <article>

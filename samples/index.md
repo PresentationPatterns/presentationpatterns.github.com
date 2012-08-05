@@ -1,8 +1,7 @@
 ---
 layout: fullNav
-pageName: glossary
-title:
-tagline: 
+title: Sample Patterns
+tagline: Sample Presentation Patterns
 ---
 
 <article>
