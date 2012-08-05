@@ -43,7 +43,7 @@ a[href^="http://"]{
 a[href^="http://"]:after{
 	content:  " ";
 	position: absolute;
-	background:  url(../images/layout/link-external.png) no-repeat left center;
+	background:  url(/images/layout/link-external.png) no-repeat left center;
 	
 	-ms-background-size: contain;
 	-moz-background-size: contain;

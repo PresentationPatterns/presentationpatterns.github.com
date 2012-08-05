@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirecturl: index.html
+redirecturl: /
 redirectdelay: 3000
 ---

@@ -2,7 +2,7 @@
 }
 
 #logo{
-	background: url(../images/layout/logo.png) no-repeat center center;
+	background: url(/images/layout/logo.png) no-repeat center center;
 	
 	-ms-background-size: contain;
 	-moz-background-size: contain;
