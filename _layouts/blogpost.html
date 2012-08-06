@@ -1,11 +1,28 @@
 ---
-layout: default
+layout: fullNav
 ---
-<span class="top">{% include PP/navigation.html %}</span>
 <article>
-	<section>
-		<h1>{{page.tagline}}</h1>
+	    <h1>{{page.title}}</h1>
+		<section>
+		<h2>{{page.tagline}}</h2>
 		{{ content }}
-	</section>
+		</section>
 </article>
-<span class="bottom">{% include PP/navigation.html %}</span>
+
+<section>
+    <div class="pagination">
+      {% if page.previous %}
+        <a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a>
+      {% else %}
+        <a>&larr; No Previous Articles</a>
+      {% endif %}
+        • 
+        <a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a>
+        • 
+      {% if page.next %}
+        <a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a>
+      {% else %}
+        <a>No Further Articles &rarr;</a>
+      {% endif %}
+    </div>
+</section>

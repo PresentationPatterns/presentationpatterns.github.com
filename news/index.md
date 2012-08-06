@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirecturl: ../index.html
+redirecturl: /blog
 redirectdelay: 3000
 ---

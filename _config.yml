@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /blog/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -16,7 +16,6 @@ author :
   email : info@presentationpatterns.com
   github : PresentationPatterns
   twitter : ppatterns
-  feedburner : TODO
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

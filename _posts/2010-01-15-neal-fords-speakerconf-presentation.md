@@ -1,8 +1,9 @@
 ---
-layout: fullNav
-title: Neal Ford's SpeakerConf Presentation
-category : 
-tags : [conference, speaking, nealford]
+layout: blogpost
+title    : Neal Ford's SpeakerConf Presentation
+tagline  : Neal plans to deliver Presenation Patterns talk at SpeakerConf 2010
+category : presentation
+tags     : [conference, speaking, nealford]
 ---
 Neal was invited yet again to [SpeakerConf 2010](http://speakerconf.com/) at which he had the opportunity to give a talk on presentation techniques, directly in line with the book's roadmap. Feedback was very positive.
 

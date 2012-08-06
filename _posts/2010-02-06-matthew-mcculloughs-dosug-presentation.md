@@ -1,8 +1,9 @@
 ---
-layout: fullNav
-title: Matthew McCullough's DOSUG Presentation
-category : 
-tags : [speaking, matthewmccullough]
+layout: blogpost
+title    : Matthew McCullough's DOSUG Presentation
+tagline  : Information Alchemy talk given at DOSUG
+category : presentation
+tags     : [speaking, matthewmccullough]
 ---
 Matthew gave a passionate version of his Information Alchemy talk at the [Denver Open Source User Group (DOSUG)](http://denveropensource.org/) during their February, 2010 [Ignite](http://ignite.oreilly.com/) night lineup. The talk was very well received and has, since then, been given in at least 10 others venues, including the [No Fluff Just Stuff conference series](http://nofluffjuststuff.com/).
 
