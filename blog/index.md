@@ -19,4 +19,10 @@ tagline: The Blog
 			More blog entries and Presentation Pattern tips are coming as soon as the book hits bookshelves.
 		</p>
 	</section>
+
+	<ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
 </article>
