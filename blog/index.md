@@ -1,8 +1,8 @@
 ---
 layout: fullNav
 pageName: blog
-title:
-tagline: 
+title: Blog
+tagline: The Blog
 ---
 
 <article>

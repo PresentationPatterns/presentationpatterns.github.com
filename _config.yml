@@ -9,11 +9,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-sitetitle : Presentation Patterns
 title : Presentation Patterns
 tagline: Better presentations through pattern use
-author : Matthew McCullough
-  name : Name Lastname
+author :
+  name : Matthew McCullough
   email : info@presentationpatterns.com
   github : PresentationPatterns
   twitter : ppatterns
