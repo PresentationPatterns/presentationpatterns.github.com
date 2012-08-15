@@ -219,7 +219,20 @@ article section{
 	padding: 1%;
 	border: solid 1px #ddd;
 }
-	article h1{
+	article blockquote:before{
+		content: "\0022";
+		font-size: 3em;
+		float: left;
+		color: #DDD;
+	}
+	article blockquote:after{
+		content: "\0022";
+		font-size: 3em;
+		float:right;
+		color: #DDD;
+		margin-top: -1em;
+	}
+	article > h1{
 		border-bottom: solid 4px #1aaae3;
 	}
 	article section p{

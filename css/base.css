@@ -103,6 +103,38 @@ small{
 	color: #999;
 }
 
+/*Blog Elements*/
+.pagination{
+	margin: auto auto;
+	width: 33%;
+	text-align: center;
+	border: solid 1px #DDD;
+	background: #FFF;
+	padding: .5em;
+	border-radius: .5em;
+}
+	.pagination a{
+		width: 32%;
+		border-right: solid 1px #DDD;
+		display: inline-block;
+	}
+	.pagination a:hover{
+		text-shadow: 1px 1px 5px rgba(0,0,0,.25);
+	}
+	.pagination a:last-child{
+		border: none;
+	}
+	.pagination .next{
+		/*float: right;*/
+	}
+	.pagination .previous{
+		/*float: left;*/
+	}
+	.pagination .no-article{
+		opacity: .5;
+		cursor: default;
+	}
+
 
 /*SMACSS Style Structure*/
 /*Base*/

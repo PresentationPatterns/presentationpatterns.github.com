@@ -9,20 +9,17 @@ layout: fullNav
 		</section>
 </article>
 
-<section>
-    <div class="pagination">
-      {% if page.previous %}
-        <a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a>
-      {% else %}
-        <a>&larr; No Previous Articles</a>
-      {% endif %}
-        • 
-        <a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a>
-        • 
-      {% if page.next %}
-        <a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a>
-      {% else %}
-        <a>No Further Articles &rarr;</a>
-      {% endif %}
-    </div>
-</section>
+
+<div class="pagination">
+  {% if page.previous %}
+    <a class="previous" href="{{ site.pathing.baseURL }}{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a>
+  {% else %}
+    <a href="#" class="previous no-article">&larr; Previous</a>
+  {% endif %}
+    <a href="{{ site.pathing.baseURL }}{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a>
+  {% if page.next %}
+    <a class="next" href="{{ site.pathing.baseURL }}{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a>
+  {% else %}
+    <a href="#" class="next no-article">Next &rarr;</a>
+  {% endif %}
+</div>
