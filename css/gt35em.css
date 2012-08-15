@@ -242,6 +242,9 @@ article{
 	padding: 1%;
 }
 
+.pagination{
+	width: 33%;
+}
 
 /*Hiding for Mobile and Desktop*/
 .top header{
