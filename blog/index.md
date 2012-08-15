@@ -12,11 +12,11 @@ tagline: The Blog
     {% for post in site.posts %}
         
         <section>
-            <a href="{{ BASE_PATH }}{{ post.url }}">
+            <a href="{{ site.pathing.baseURL }}{{ BASE_PATH }}{{ post.url }}">
                 <h2>{{ post.date | date_to_string }} &raquo; {{ post.title }}</h2>
             </a>
             <p>{{ post.tagline }}</p>
-            <a href="{{ BASE_PATH }}{{ post.url }}">
+            <a href="{{ site.pathing.baseURL }}{{ BASE_PATH }}{{ post.url }}">
                 <p>Read more...</p>
             </a>
         </section>
