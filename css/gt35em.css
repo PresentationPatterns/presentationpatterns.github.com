@@ -161,7 +161,7 @@ nav{
 		}
 	
 article.tagline{
-	background:  url(../images/module/home/background-tagline.jpg) no-repeat 25% top;
+	background:  url(../images/module/home/background-tagline.jpg) no-repeat 25% center;
 	
 	-ms-background-size: cover;
 	-moz-background-size: cover;
