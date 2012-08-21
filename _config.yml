@@ -19,7 +19,7 @@ author :
 
 pathing:
   #baseURL: /~jordanm/presentationpatterns/_site
-  baseURL: /
+  #baseURL: /
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
