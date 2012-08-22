@@ -7,7 +7,7 @@ title: Home
 <article class="tagline">
 	<h1>Techniques for Crafting Better Presentations</h1>
 	<p>
-		Neal Ford, Matthew McCullough, and Nate Schutta have 
+		Neal Ford, Matthew McCullough, and Nate Schutta sat down four years ago at a table and discussed how to collect, write about, and share the knowledge of many presenters with the world of occasional and frequent presenters. The result is this book: Presentation Patterns.
 	</p>
 	<p class="buttonSet">
 		<a href="book.html">Read more</a>
@@ -34,7 +34,7 @@ title: Home
 	<article >
 		<h1>How?</h1>
 		<p>
-			Quisque diam tortor, adipiscing eu dictum sit amet, porta a felis. Aliquam erat volutpat. Sed pharetra lobortis risus vitae vehicula. Maecenas non sodales tellus. Fusce semper viverra commodo. Nam adipiscing lorem vel dolor pellentesque a ornare orci blandit.
+			The book is divided into three major sections: Prepare, Build, and Deliver.  This allows readers to drill in, even with a presentation deadline looming, and improve the content and impact of their talk via actionable and bite-sized instructions.
 		</p>
 	</article>
 </span>
