@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title    : "Doc" List Offers Several Presenting Tips
+title    : Doc List Offers Several Presenting Tips
 tagline  : Doc List, a frequent presenter, offers his tips and tricks of the trade.
 category : tips
 tags     : [presenting, tips]
