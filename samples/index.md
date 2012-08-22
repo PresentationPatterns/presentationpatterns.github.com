@@ -45,7 +45,7 @@ tagline: Sample Presentation Patterns
     
     
     <figure>
-        <img src="images/module/samples/fontaholic.png" width="511">
+        <img src="/images/module/samples/fontaholic.png" width="511">
         <figcaption>Figure 6.2. A slide designed by a fontaholic</figcaption>
     </figure>
     
