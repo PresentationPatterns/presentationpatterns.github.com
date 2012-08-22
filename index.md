@@ -10,7 +10,7 @@ title: Home
 		Neal Ford, Matthew McCullough, and Nate Schutta sat down four years ago at a table and discussed how to collect, write about, and share the knowledge of many presenters with the world of occasional and frequent presenters. The result is this book: Presentation Patterns.
 	</p>
 	<p class="buttonSet">
-		<a href="book.html">Read more</a>
+		<a href="/book">Read more</a>
 	</p>
 </article>
 
