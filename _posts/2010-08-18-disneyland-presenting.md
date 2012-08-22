@@ -2,6 +2,8 @@
 layout: blogpost
 title: Disneyland Presenting
 tagline: How Disneyland can alter your mode of presentations
+category : tips
+tags     : [speaking, tips]
 ---
 
 A colleague of [Neal Ford's](http://www.nealford.com/) at [ThoughtWorks](http://www.thoughtworks.com/) recently [blogged about his Disney World experience](http://www.learninggeneralist.com/2010/08/5-things-ive-learnt-about-training-and.html) and how it changed his thoughts about teaching and presenting. The part I found most interesting was the following:

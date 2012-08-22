@@ -3,7 +3,7 @@ layout: blogpost
 title    : Doc List Offers Several Presenting Tips
 tagline  : Doc List, a frequent presenter, offers his tips and tricks of the trade.
 category : tips
-tags     : [presenting, tips]
+tags     : [speaking, tips]
 ---
 I'm sitting next to my world-traveling presenter friend from ThoughtWorks, "Doc" List, here at [Øredev](http://oredev.org/2010) in Malmö, Sweden. While discussing presentations, he just informed me that he posted a [blog entry containing some tips](http://www.stevenlist.com/blog/2010/11/09/presentation-tips/) that many technical presenters would do well to read.
 
