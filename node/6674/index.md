@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirecturl: /blog/date/title
+redirecturl: /blog/doclist-tips
 redirectdelay: 3000
 ---

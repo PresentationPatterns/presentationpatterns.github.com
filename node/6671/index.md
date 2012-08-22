@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirecturl: /blog/date/title
+redirecturl: /blog/three-devices/
 redirectdelay: 3000
 ---

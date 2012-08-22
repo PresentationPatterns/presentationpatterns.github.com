@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirecturl: /blog/date/title
+redirecturl: /blog/madigan-army-center
 redirectdelay: 3000
 ---
