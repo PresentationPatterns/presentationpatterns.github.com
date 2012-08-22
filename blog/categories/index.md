@@ -1,16 +1,19 @@
 ---
-layout: page
-title: Categories
-header: Posts By Category
-group: navigation
+layout: fullNav
+title: Blog Post Categories
+tagline: The Blog Posts By Category
 ---
 {% include JB/setup %}
 
-<ul class="tag_box inline">
+<article>
+
+<h2>Categories</h2>
+<ul>
   {% assign categories_list = site.categories %}
   {% include JB/categories_list %}
 </ul>
 
+<hr>
 
 {% for category in site.categories %} 
   <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
@@ -19,4 +22,4 @@ group: navigation
     {% include JB/pages_list %}
   </ul>
 {% endfor %}
-
+</article>
