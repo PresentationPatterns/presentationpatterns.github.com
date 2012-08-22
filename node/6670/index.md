@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirecturl: /blog/date/title
+redirecturl: /blog/disneyland-presenting
 redirectdelay: 3000
 ---
