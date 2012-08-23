@@ -14,7 +14,7 @@ Neal Ford, Matthew McCullough, and Nate Schutta sat down four years
 	<a
 	href="http://www.informit.com/store/product.aspx?isbn=0321820800#largeCover">Presentation
 	Patterns</a>.
-<img src="http://nealford.com/images/ppap-cover-small.jpg" />
+<img src="http://nealford.com/images/ppap-cover-small.jpg" border="10"/>
 	</p>
 
 	<p class="buttonSet">
