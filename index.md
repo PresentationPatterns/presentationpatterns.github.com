@@ -15,9 +15,6 @@ Neal Ford, Matthew McCullough, and Nate Schutta sat down four years
 	Patterns</a>.
 </p>
 <p>
-&nbsp;
-</p>
-<p>
 <a
 	href="http://www.informit.com/store/product.aspx?isbn=0321820800"><img src="http://nealford.com/images/ppap-cover-small.jpg"  /></a>
 	</p>
