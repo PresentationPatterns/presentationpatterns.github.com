@@ -12,9 +12,9 @@ Neal Ford, Matthew McCullough, and Nate Schutta sat down four years
 	share the knowledge of many presenters with the world of
 	occasional and frequent presenters. The result is this book:
 	<a
-	href="http://www.informit.com/store/product.aspx?isbn=0321820800#largeCover">Presentation
+	href="http://www.informit.com/store/product.aspx?isbn=0321820800">Presentation
 	Patterns</a>.
-<img src="http://nealford.com/images/ppap-cover-small.jpg" border="10"/>
+<a href="http://www.informit.com/store/product.aspx?isbn=0321820800"><img src="http://nealford.com/images/ppap-cover-small.jpg" border="5"/></a>
 	</p>
 
 	<p class="buttonSet">
