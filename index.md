@@ -7,7 +7,14 @@ title: Home
 <article class="tagline">
 	<h1>Techniques for Crafting Better Presentations</h1>
 	<p>
-Neal Ford, Matthew McCullough, and Nate Schutta sat down four years ago at a table and discussed how to collect, write about, and share the knowledge of many presenters with the world of occasional and frequent presenters. The result is this book: Presentation Patterns.
+Neal Ford, Matthew McCullough, and Nate Schutta sat down four years
+	ago at a table and discussed how to collect, write about, and
+	share the knowledge of many presenters with the world of
+	occasional and frequent presenters. The result is this book:
+	<a
+	href="http://www.informit.com/store/product.aspx?isbn=0321820800#largeCover">Presentation
+	Patterns</a>.
+<img src="http://nealford.com/images/ppap-cover-small.jpg" />
 	</p>
 
 	<p class="buttonSet">
