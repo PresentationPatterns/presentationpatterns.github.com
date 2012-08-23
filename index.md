@@ -20,8 +20,7 @@ Neal Ford, Matthew McCullough, and Nate Schutta sat down four years
 
 	<p class="buttonSet">
 		<a href="/book">Read more</a> &nbsp; <a
-		href="http://www.informit.com/store/product.aspx?isbn=0321820800">Order
-		from the Publisher</a>
+		href="http://www.amazon.com/Presentation-Patterns-Techniques-Crafting-Presentations/dp/0321820800/ref=sr_1_1?ie=UTF8&qid=1345753066&sr=8-1&keywords=Presentation+Patterns">Order</a>
 	</p>
 </article>
 
