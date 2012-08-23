@@ -19,7 +19,9 @@ Neal Ford, Matthew McCullough, and Nate Schutta sat down four years
 	</p>
 
 	<p class="buttonSet">
-		<a href="/book">Read more</a>
+		<a href="/book">Read more</a> &nbsp; <a
+		href="http://www.informit.com/store/product.aspx?isbn=0321820800">Order
+		from the Publisher</a>
 	</p>
 </article>
 
