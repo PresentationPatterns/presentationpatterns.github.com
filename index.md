@@ -52,10 +52,6 @@ Why "patterns"? Isn't a pattern the same thing as a recipe? There are two reason
 <p>
 We answer these questions and many more, including some you didn't know to ask, all with concrete advice, using the same tools you already use; We illustrate all the examples in both PowerPoint and Keynote. This book shows you the most objective, analytical way to create better presentations.
 </p>
-<p>
-<a href="http://www.informit.com/store/product.aspx?isbn=0321820800">
-<img align="left" border="10" src="http://www.informit.com/ShowCover.aspx?isbn=0321820800"/></a>
-</p>
 	<p class="buttonSet">
 		<a href="/book">Read more</a>
 	</p>
