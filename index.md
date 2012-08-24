@@ -14,19 +14,17 @@ Neal Ford, Matthew McCullough, and Nate Schutta sat down four years
 	href="http://www.informit.com/store/product.aspx?isbn=0321820800">Presentation
 	Patterns</a>.
 </p>
-<p>
+<!-- <p> -->
 <a
-	href="http://www.informit.com/store/product.aspx?isbn=0321820800"><img src="http://nealford.com/images/ppap-cover-small.jpg"  /></a>
-	</p>
+	href="http://www.informit.com/store/product.aspx?isbn=0321820800"><img src="{{ site.pathing.baseURL }}/images/module/home/book-cover.jpg" align="right"  /></a>
+	<!-- </p> -->
 
-	<p class="buttonSet">
+	<div class="buttonSet">
 		<a href="/book">Read more</a> 
-	</p>
-	<p class="buttonSet">
-	<a
-		href="http://www.amazon.com/Presentation-Patterns-Techniques-Crafting-Presentations/dp/0321820800/ref=sr_1_1?ie=UTF8&qid=1345753066&sr=8-1&keywords=Presentation+Patterns">Order
-		from Amazon</a>
-	</p>
+		<a
+			href="http://www.amazon.com/Presentation-Patterns-Techniques-Crafting-Presentations/dp/0321820800/ref=sr_1_1?ie=UTF8&qid=1345753066&sr=8-1&keywords=Presentation+Patterns">Order
+			from Amazon</a>
+	</div>
 
 
 </article>
