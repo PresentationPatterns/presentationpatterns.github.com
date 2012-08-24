@@ -96,7 +96,7 @@ header .blogTicker ul{
 	}
 
 nav{
-	position: absolute;
+	/*position: absolute;*/
 	display: inline;
 	width:  70%;
 	float: left;
@@ -170,7 +170,7 @@ article.tagline{
 	-o-background-size: cover;
 	background-size: cover;
 	overflow: auto;
-	margin-top:  -1em;
+	/*margin-top:  -1em;*/
 }
 	article.tagline h1{
 		border-bottom: solid 4px #1aaae3;
