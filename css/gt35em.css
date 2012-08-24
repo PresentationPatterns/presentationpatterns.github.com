@@ -25,7 +25,8 @@
 
 header{
 	height:  9em;
-	margin-bottom: 1em;
+	padding-bottom: 1em;
+	margin-bottom: -1em;
 	background: #fff;
 	border-bottom:  solid 1px #ddd;
 }
