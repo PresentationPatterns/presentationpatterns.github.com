@@ -5,6 +5,8 @@ title: Home
 ---
 
 <article class="tagline">
+	<figure><a href="http://www.informit.com/store/product.aspx?isbn=0321820800"><img src="{{ site.pathing.baseURL }}/images/module/home/book-cover.jpg" /></a></figure>
+
 	<h1>Techniques for Crafting Better Presentations</h1>
 	<p>
 Neal Ford, Matthew McCullough, and Nate Schutta sat down four years
@@ -14,10 +16,8 @@ Neal Ford, Matthew McCullough, and Nate Schutta sat down four years
 	href="http://www.informit.com/store/product.aspx?isbn=0321820800">Presentation
 	Patterns</a>.
 </p>
-<!-- <p> -->
-<a
-	href="http://www.informit.com/store/product.aspx?isbn=0321820800"><img src="{{ site.pathing.baseURL }}/images/module/home/book-cover.jpg" align="right"  /></a>
-	<!-- </p> -->
+
+
 
 	<div class="buttonSet">
 		<a href="/book">Read more</a> 
