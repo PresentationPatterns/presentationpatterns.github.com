@@ -96,6 +96,7 @@ header .blogTicker ul{
 	}
 
 nav{
+	position: absolute;
 	display: inline;
 	width:  70%;
 	float: left;
