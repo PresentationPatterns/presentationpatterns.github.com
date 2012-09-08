@@ -1,8 +1,14 @@
+---
+---
+
+
+.testingonetwothree{}
+
 #container{
 }
 
 #logo{
-	background: url(/images/layout/logo.png) no-repeat center center;
+	background: url({{ site.pathing.baseURL }}/images/layout/logo.png) no-repeat center center;
 	
 	-ms-background-size: contain;
 	-moz-background-size: contain;
@@ -236,6 +242,7 @@ article section{
 	}
 	article > h1{
 		border-bottom: solid 4px #1aaae3;
+		margin: .5em;
 	}
 	article section p{
 	}
