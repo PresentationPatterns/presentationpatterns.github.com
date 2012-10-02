@@ -8,10 +8,9 @@ tagline: Glossary of Patterns
 	<h1>Glossary</h1>
 	
 	<section>
-		<p>
-    <p>Pattern Names are the very <i>raison d'être</i> of the
-		book. They are meant to be always memorable, generally
-		descriptive, and occasionally humorous. Our
+
+<p>Pattern Names are the very <i>raison d'être</i> of the book. They
+		are meant to be always memorable, generally descriptive, and occasionally humorous. Our
 		observation is that once a behavior, product, or idea
 		is named, it can be more effectively and concisely
 		referenced amongst colleagues. Once able to be
@@ -22,7 +21,7 @@ tagline: Glossary of Patterns
 You can think of patterns as similar to recipes, but patterns operate
 		at a lower level than recipes. A recipe has steps, and
 		the steps consist of instructions like “sauté” or
-		“peel.” Patterns resemble the lower-level steps found
+		"peel." Patterns resemble the lower-level steps found
 		inside recipes; the techniques you must master to be
 		considered a master chef or master presenter. You can
 		use the patterns in this book to construct your own
