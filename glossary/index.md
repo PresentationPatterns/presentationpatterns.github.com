@@ -12,20 +12,19 @@ tagline: Glossary of Patterns
     <p>Pattern Names are the very <i>raison d'être</i> of the book. They are meant to be always memorable, generally descriptive, and occasionally humorous. Our observation is that once a behavior, product, or idea is named, it can be more effectively and concisely referenced amongst colleagues. Once able to be efficiently referenced, that pattern can be more frequently implemented, or if an anti-pattern, avoided.</p>
     <p>Feedback and comments are welcomed. Just drop the authors an email at <a href="mailto:info@presentationpatterns.com">info@presentationpatterns.com</a> or a tweet to <a href="http://twitter.com/ppatterns">@ppatterns</a></p>
 	</section>
-	
 <section><div class='glossdiv' title='A'>
 <h2 class='title'>A</h2>
 <h3>Abstract Attorney (Antipattern)</h3>
 <p>An abstract attorney is someone who takes the description of the presentation from the formal conference brochure way too seriously. They’ll often comment (negatively) on any and all deviations from the abstract either during the talk (in the form of an often condescending question) or afterward on session evaluations or on social media.</p>
 <h3>Á la Carte Content</h3>
-<p>Creating a presentation "on the fly" using the interest of the crowd to guide the presentation. Typically, this approach begins with a set of related slides (often structured as a Talklet series) that can be alternatively arranged. This technique works well if you have more content than the time slot allows or the talk naturally breaks along several subtopic lines.</p>
+<p>Creating a presentation “on the fly” using the interest of the crowd to guide the presentation. Typically, this approach begins with a set of related slides (often structured as a Talklet series) that can be alternatively arranged. This technique works well if you have more content than the time slot allows or the talk naturally breaks along several subtopic lines.</p>
 <h3>Alienating Artifact (Antipattern)</h3>
 <p>An alienating artifact is something that disenfranchises an audience member or audience members from the topic at hand. This can take the form of an image, a quote, or offensive language.</p>
 <h3>Analog Noise</h3>
-<p>Computers make it possible to create visually flawless imagery and text. However, in sci-fi movies, even apparently digital communication has jitter, breakups, blockiness, and noise. The imperfection is a cue that the communications are happening over a long distance. "Analog noise" can be an endearing quality that makes the situation more believable for the audience. Such noise can be intentionally introduced via handwritten fonts, film grain, uneven lines, monochrome colors, and "amateur" photograph errors. Adding some noise to your slides adds visual interest and garners greater attention.</p>
+<p>Computers make it possible to create visually flawless imagery and text. However, in sci-fi movies, even apparently digital communication has jitter, breakups, blockiness, and noise. The imperfection is a cue that the communications are happening over a long distance. “Analog noise” can be an endearing quality that makes the situation more believable for the audience. Such noise can be intentionally introduced via handwritten fonts, film grain, uneven lines, monochrome colors, and “amateur” photograph errors. Adding some noise to your slides adds visual interest and garners greater attention.</p>
 <h3>Ant Fonts (Antipattern)</h3>
-<p>Don’t use tiny fonts in a desire to cram more information on a slide. Slide size is completely arbitrary and has no relationship to the proper size of the content. If you ever think (or worse, say) "You probably can’t read this in the back," you’ve failed your audience. Slides with unreadable fonts often result from "helpful" software that modifies font size as you add more content. You don’t get bonus points for using fewer slides.</p>
-</section>
+<p>Don’t use tiny fonts in a desire to cram more information on a slide. Slide size is completely arbitrary and has no relationship to the proper size of the content. If you ever think (or worse, say) “You probably can’t read this in the back,” you’ve failed your audience. Slides with unreadable fonts often result from “helpful” software that modifies font size as you add more content. You don’t get bonus points for using fewer slides.</p>
+</div></section>
 <section><div class='glossdiv' title='B'>
 <h2 class='title'>B</h2>
 <h3>Backchannel (Antipattern)</h3>
@@ -48,7 +47,7 @@ tagline: Glossary of Patterns
 <p>A Bullet-Riddled Corpse is a presentation where every slide is a long series of dull bullet points. Typically, these slides will then be read to the audience insinuating they can’t read.</p>
 <h3>Bunker (Antipattern)</h3>
 <p>Hiding behind something doesn’t engender trust with your audience. You speak to a group of people; making a more personal connection with them adds nuance and extra meaning to your presentation. Avoid podiums; walk around and engage with your audience. Stationary presenters often give very static presentations.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='C'>
 <h2 class='title'>C</h2>
 <h3>Carnegie Hall</h3>
@@ -75,7 +74,7 @@ tagline: Glossary of Patterns
 <p>As pioneered by the movie Star Wars (with the later addition to the title Episode IV: A New Hope) in 1977, credits can be calmly and progressively shown in a seemingly infinite bottom-to-top slide. This gives each name, company, or URL equal but limited screen time without seeming hurried.</p>
 <h3>Crucible</h3>
 <p>The act of constructing the presentation differs from presenting the presentation. The presentation will change (sometimes drastically) under the pressure of presenting it.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='D'>
 <h2 class='title'>D</h2>
 <h3>Dead Demo (Antipattern)</h3>
@@ -88,7 +87,7 @@ tagline: Glossary of Patterns
 <p>As a presenter, you should demonstrate to the audience that there is a difference between the speaker and audience members; the speaker is bringing new knowledge and discoveries and the audience is there to absorb, question, and clarify these new points.</p>
 <h3>Dual-Headed Monster (Antipattern)</h3>
 <p>This antipattern delivers a presentation to both a live and a remote audience via some desktop sharing or video streaming tool. It reduces the value and richness of the presentation by trying to serve two audiences, each with disparate and competing format and delivery requirements.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='E'>
 <h2 class='title'>E</h2>
 <h3>Echo Chamber</h3>
@@ -103,18 +102,18 @@ tagline: Glossary of Patterns
 <p>Building a presentation for one (and only one) length is a missed opportunity. Crafting short-, medium-, and full-length versions of your talk provides additional opportunities for delivery and simplifies adapting to shorter windows if the promised time slot is cut short.</p>
 <h3>Exuberant Title Top</h3>
 <p>A technique that allows you to place a core idea on the center of the slide and then add supporting elements underneath as the main idea migrates to the top of the slide. The Slideuments pattern allows you to use fewer slides yet separate important points. </p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='F'>
 <h2 class='title'>F</h2>
 <h3>Floodmarks (Antipattern)</h3>
 <p>Floodmarks are marketing and branding headers, footers, and watermarks that invade the content area of the slide. Your audience won’t forget who you work for or the name of the conference during the course of your talk. Egregious instances of this antipattern lead to several other antipatterns by occupying valuable real estate.</p>
 <h3>Fontaholic (Antipattern)</h3>
-<p>A Fontaholic is someone who believes using a cacophony of fonts will "jazz up" a presentation. Disharmonic fonts are jarring. They make presentations gruesome and more difficult to read.</p>
+<p>A Fontaholic is someone who believes using a cacophony of fonts will “jazz up” a presentation. Disharmonic fonts are jarring. They make presentations gruesome and more difficult to read.</p>
 <h3>Foreshadowing</h3>
 <p>Like foreshadowing in literature, this pattern adds elements early in a talk to seed an idea that will be resolved (hopefully with more resonance) later.</p>
 <h3>Fourthought</h3>
 <p>Don’t rush to use a presentation tool when building a presentation. The four stages of creating a presentation are ideation, capture, organize, and design.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='G'>
 <h2 class='title'>G</h2>
 <h3>Going Meta (Antipattern)</h3>
@@ -123,14 +122,14 @@ tagline: Glossary of Patterns
 <p>Reveal content bit by bit, only showing the full connection between all the ideas as the conclusion of segments or modules. </p>
 <h3>Greek Chorus</h3>
 <p>Ancient Greek plays often featured a chorus, a group of players who stood aside from the action, making occasional comments and interludes during the play. Adding a Greek Chorus means you seed the audience with some partisans to interject comments, enthusiasm, or to help defend your case if you are outnumbered.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='H'>
 <h2 class='title'>H</h2>
 <h3>Hecklers (Antipattern)</h3>
 <p>An audience of any substantial size will have individuals that aim to gain recognition through attacks on the presenter’s premise, approach, or discoveries. Coping with them requires preparation, a cool head, and decisive action. Dealing decisively with hecklers keeps the presentation on track and protects the congenial members of the audience.  </p>
 <h3>Hiccup Words (Antipattern)</h3>
-<p>Hiccup Words are involuntary exclamations ("Ummm," "Ahhh," etc.) that distract and detract from the presentation. Dead air isn’t a cardinal sin, and it’s unlikely anyone in your audience will break into a presentation just because you paused.</p>
-</section>
+<p>Hiccup Words are involuntary exclamations (“Ummm,” “Ahhh,” etc.) that distract and detract from the presentation. Dead air isn’t a cardinal sin, and it’s unlikely anyone in your audience will break into a presentation just because you paused.</p>
+</div></section>
 <section><div class='glossdiv' title='I'>
 <h2 class='title'>I</h2>
 <h3>Infodeck</h3>
@@ -138,21 +137,21 @@ tagline: Glossary of Patterns
 <h3>Intermezzi</h3>
 <p>Presentations should be made up of logical parts in the form of a Triad or Narrative Arc shape. Sometimes, these sections necessitate a color change, thematic shift, or outline introduction to clearly signal the beginning or ending of an act. This pattern is an implementation of the Context Keeper pattern and is similar to Bookends but is used during the course of the presentation to wrap sections, as opposed to wrapping the entire presentation.</p>
 <h3>Injured Outlines (Antipattern)</h3>
-<p>Outlines should never have a single point at an indent level; don’t create bullet points that have only one sub-bullet. Bullets in presentations mimic outlines and it "looks" grammatically incorrect to have orphan bullets.</p>
+<p>Outlines should never have a single point at an indent level; don’t create bullet points that have only one sub-bullet. Bullets in presentations mimic outlines and it “looks” grammatically incorrect to have orphan bullets.</p>
 <h3>Invisibility</h3>
 <p>This pattern uses invisible elements that don’t appear on printed versions of the slides but are revealed throughout your talk. This preserves a sense of surprise when you are forced to provide handouts (Slideuments?) in advance of your talk. </p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='K'>
 <h2 class='title'>K</h2>
 <h3>Know Your Audience</h3>
-<p>Preparing a great presentation is lost if you present it to the "wrong" audience. Seek data on your attendees; their occupations, relative ages, comfort level with the material, and general background. Tune your material to match as many of the attending demographics as possible.</p>
-</section>
+<p>Preparing a great presentation is lost if you present it to the “wrong” audience. Seek data on your attendees; their occupations, relative ages, comfort level with the material, and general background. Tune your material to match as many of the attending demographics as possible.</p>
+</div></section>
 <section><div class='glossdiv' title='L'>
 <h2 class='title'>L</h2>
 <h3>Laser Weapons (Antipattern)</h3>
-<p>Laser pointers are generally a crutch for identifying content elements on a slide that could otherwise be emphasized by Traveling Highlights or as an attempt to explain a slide that "you probably can’t read in the back."</p>
+<p>Laser pointers are generally a crutch for identifying content elements on a slide that could otherwise be emphasized by Traveling Highlights or as an attempt to explain a slide that “you probably can’t read in the back.”</p>
 <h3>Leet Grammars</h3>
-<p>Leet Grammars refers to correctly using appropriate slang, jargon, and other "insider" colloquialisms in your presentation to bond with your audience.</p>
+<p>Leet Grammars refers to correctly using appropriate slang, jargon, and other “insider” colloquialisms in your presentation to bond with your audience.</p>
 <h3>Lightning Talk</h3>
 <p>Lightning Talk is a timed presentation, usually five minutes long and optionally constrained by aspecific number of slides. In many formats, the slides advance automatically.</p>
 <h3>Lightsaber</h3>
@@ -164,22 +163,22 @@ tagline: Glossary of Patterns
 <h3>Live Demo</h3>
 <p>Live Demo is running the product live in front of the audience. Thought of as a way to gain credibility and actively promote the product, this approach carries the significant risk of a failing demo. The return on investment is rarely worth the risk.</p>
 <h3>Live on Tape</h3>
-<p>This term refers to a recorded version of your entire presentation provided electronically. More effective and interactive than the standard "saving your presentation as a PDF." </p>
-</section>
+<p>This term refers to a recorded version of your entire presentation provided electronically. More effective and interactive than the standard “saving your presentation as a PDF.” </p>
+</div></section>
 <section><div class='glossdiv' title='M'>
 <h2 class='title'>M</h2>
 <h3>Make It Rain</h3>
 <p>Use props like chairs, paper airplanes, candy (typically thrown at/to audience members), and other devices to add flair to your presentation and encourage interaction, especially with preternaturally shy groups.</p>
 <h3>Mentor</h3>
 <p>The audience wants to be led but not by the nose. Take on the role of guide and, via the presentation, provide your audience with new skills, ideas, and techniques as if you were their private tutor in your field.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='N'>
 <h2 class='title'>N</h2>
 <h3>Narrative Arc</h3>
 <p>Presentations are a form of storytelling; don’t ignore a few thousand years of oratory history. A Narrative Arc is a common trope; organizing your presentation in a similar way leverages your audience’s lifetime of story listening experience. </p>
 <h3>Negative Ignorance (Antipattern)</h3>
-<p>Never pose a question to the audience in the form of "Who here is not familiar with X?" People dislike admitting ignorance, especially in a circle of their peers. And turning it to a positive question isn’t much better.</p>
-</section>
+<p>Never pose a question to the audience in the form of “Who here is not familiar with X?” People dislike admitting ignorance, especially in a circle of their peers. And turning it to a positive question isn’t much better.</p>
+</div></section>
 <section><div class='glossdiv' title='P'>
 <h2 class='title'>P</h2>
 <h3>Peer Review</h3>
@@ -194,14 +193,14 @@ tagline: Glossary of Patterns
 <p>Prior to the start time of your talk, displaying the topic and presenter on screen can be informative and clarifying. If the information cannot comfortably fit on one slide, a series of slides can be recorded as a video and then embedded into the actual presentation and set to loop. When the presenter is ready to give the talk, he or she clicks the remote to advance past the animation to the first content slide.</p>
 <h3>Proposed</h3>
 <p>Most presenters are required to submit a talk title, abstract, topic outline, and perhaps even samples of past work in video or PDF form. The most common ways to get into a conference—paying attention to the details and presenting a polished proposal—increase your odds your talk will be accepted.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='R'>
 <h2 class='title'>R</h2>
 <h3>Red, Yellow, Green</h3>
 <p>Several conferences, in order to simplify the voting process and increase participation, put red, yellow, and green cards near the entrance to the room. Upon exit, attendees drop a card into the voting bucket indicating their opinion of the talk. The scores can be tallied immediately.</p>
 <h3>Required</h3>
 <p>A command performance presents unique challenges and added stress. Unless the topic is near and dear to your heart, you may have to manufacture motivation and interest.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='S'>
 <h2 class='title'>S</h2>
 <h3>Seeding Satisfaction</h3>
@@ -220,7 +219,7 @@ tagline: Glossary of Patterns
 <p>When you have stale content, one way to subtly transition away from it uses an almost-imperceptible fade transition for either the slide or elements on the slide. It should happen so gradually that the audience doesn’t even realize it’s happening. Add both slide and element transitions to soften the transition between slides.</p>
 <h3>Stakeout</h3>
 <p>Arriving on time for your talk seems too simple to even mention. However, chaos is conspiring to prevent you from doing just that. If the venue isn’t amenable to corporate camping, locate a nearby coffee shop or other work-conducive location. You can arrive at this staging area with ample time to spare but still have the opportunity to use your cushion productively should mayhem take a holiday. It also avoids aimlessly wandering the venue hallways.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='T'>
 <h2 class='title'>T</h2>
 <h3>Takahashi</h3>
@@ -233,20 +232,21 @@ tagline: Glossary of Patterns
 <p>Use highlighting (either intrinsic in the tool or a third-party add-on like OmniDazzle) to draw attention to something on the slide such as a picture or screenshot of another tool or application. Traveling Highlights implies that you use transitions to highlight different parts of the slide as you walk through the details.</p>
 <h3>Triad</h3>
 <p>Your audience can only absorb a certain amount of material in a short time. If you limit your presentation to three main talking points, it allows you to cover them thoroughly without overwhelming your audience. </p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='U'>
 <h2 class='title'>U</h2>
 <h3>Unifying Visual Theme</h3>
 <p>Use a common, repeating visual element to tie together the disparate parts of your presentation.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='V'>
 <h2 class='title'>V</h2>
 <h3>Vacation Photos</h3>
 <p>A picture is worth a thousand words, but does that translate into an effective presentation? Carefully selected images can stand in place of wordy slides. With this approach, the presenter becomes a greater focus of attention, supplying the full verbal channel and allowing the well-chosen images to amplify the spoken words.</p>
-</section>
+</div></section>
 <section><div class='glossdiv' title='W'>
 <h2 class='title'>W</h2>
 <h3>Weatherman</h3>
 <p>TV weathermen use green screens and monitors to see and gesture toward map details. Never turn your back on the audience. If you need to point to something on the screen, do it like a weatherman: Stand off to the side so that you can see both the screen and the audience as you gesture.</p>
-</section>
+</div></section>
+	
 </article>
