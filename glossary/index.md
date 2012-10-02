@@ -4,6 +4,8 @@ title: Glossary
 tagline: Glossary of Patterns
 ---
 
+<article>
+
 # Glossary
 
 Pattern Names are the very <i>raison d'être</i> of the book. They are
@@ -42,3 +44,5 @@ Feedback and comments are welcomed. Just drop the authors an email at <a href="m
 
 {% include PP/generated_glossary.html %}
 	
+
+</article>
