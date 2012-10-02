@@ -30,11 +30,7 @@ tagline: Glossary of Patterns
 		                <p>
 		                Don't use tiny fonts in a desire to cram more information on a slide. Slide size is completely arbitrary and has no relationship to the proper size of the content.
 		                </p>
-		                <h3>Anti-lineararity</h3>
-		
-		                <p>
-		                Creating a presentation that purposefully does not follow a linear narrative arc.
-		                </p>
+
 		                <h3>Anti-weatherman (Anti-pattern)</h3>
 		
 		                <p>
