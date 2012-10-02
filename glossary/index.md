@@ -6,7 +6,7 @@ tagline: Glossary of Patterns
 
 <article>
 
-<h1>Glossary</h>
+<h1>Glossary</h1>
 
 <p>Pattern Names are the very <i>raison d'être</i> of the book. They are
 		meant to be always memorable, generally descriptive,
