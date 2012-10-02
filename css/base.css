@@ -20,7 +20,7 @@ ul,li{
 
 h1{
 	margin: 0;
-	margin: 0 2%;
+	margin: 0;
 	
 	-ms-text-shadow: 1px 1px 1px #fff, .025em .025em .125em #999;
 	-moz-text-shadow: 1px 1px 1px #fff, .025em .025em .125em #999;
@@ -36,7 +36,7 @@ a{
 	text-decoration: none;
 	color: #333;
 }
-
+/*
 a[href^="http://"]{
 	margin-right: .5em;
 }
@@ -52,7 +52,7 @@ a[href^="http://"]:after{
 	background-size: contain;
 	width: .5em;
 	height: 1em;
-}
+}*/
 
 article section{
 	overflow: auto;
@@ -141,6 +141,9 @@ small{
 /*Layout*/
 
 /*Module*/
+.buttonSet{
+	display: block;
+}
 .buttonSet a{
 /*	-ms-border-radius: 0em 4em 4em 0em / 0em 2em 2em 0em;
 	-moz-border-radius: 0em 4em 4em 0em / 0em 2em 2em 0em;
@@ -159,9 +162,11 @@ small{
 	background: #ccc;
 	color: #fff;
 	font-weight:  bold;
-	padding: .5em 4em .5em 3em;
-	margin-right: -2em;
+	padding: .5em 1em .5em 1em;
+	/*margin-right: -2em;*/
 	border:  solid 1px #fff;
+
+	float: left;
 }
 
 .buttonSet a:hover{
