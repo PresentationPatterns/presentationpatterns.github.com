@@ -43,6 +43,8 @@ tagline: Glossary of Patterns
 
 <p>Feedback and comments are welcomed. Just drop the authors an email at <a href="mailto:info@presentationpatterns.com">info@presentationpatterns.com</a> or a tweet to <a href="http://twitter.com/ppatterns">@ppatterns</a></p>
 
+</section>
+
 {% include PP/generated_glossary.html %}
 	
 
