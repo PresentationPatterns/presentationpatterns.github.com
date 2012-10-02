@@ -18,13 +18,13 @@ tagline: Glossary of Patterns
 <h3>Abstract Attorney (Antipattern)</h3>
 <p>An abstract attorney is someone who takes the description of the presentation from the formal conference brochure way too seriously. They’ll often comment (negatively) on any and all deviations from the abstract either during the talk (in the form of an often condescending question) or afterward on session evaluations or on social media.</p>
 <h3>Á la Carte Content</h3>
-<p>Creating a presentation “on the fly” using the interest of the crowd to guide the presentation. Typically, this approach begins with a set of related slides (often structured as a Talklet series) that can be alternatively arranged. This technique works well if you have more content than the time slot allows or the talk naturally breaks along several subtopic lines.</p>
+<p>Creating a presentation "on the fly" using the interest of the crowd to guide the presentation. Typically, this approach begins with a set of related slides (often structured as a Talklet series) that can be alternatively arranged. This technique works well if you have more content than the time slot allows or the talk naturally breaks along several subtopic lines.</p>
 <h3>Alienating Artifact (Antipattern)</h3>
 <p>An alienating artifact is something that disenfranchises an audience member or audience members from the topic at hand. This can take the form of an image, a quote, or offensive language.</p>
 <h3>Analog Noise</h3>
-<p>Computers make it possible to create visually flawless imagery and text. However, in sci-fi movies, even apparently digital communication has jitter, breakups, blockiness, and noise. The imperfection is a cue that the communications are happening over a long distance. “Analog noise” can be an endearing quality that makes the situation more believable for the audience. Such noise can be intentionally introduced via handwritten fonts, film grain, uneven lines, monochrome colors, and “amateur” photograph errors. Adding some noise to your slides adds visual interest and garners greater attention.</p>
+<p>Computers make it possible to create visually flawless imagery and text. However, in sci-fi movies, even apparently digital communication has jitter, breakups, blockiness, and noise. The imperfection is a cue that the communications are happening over a long distance. "Analog noise" can be an endearing quality that makes the situation more believable for the audience. Such noise can be intentionally introduced via handwritten fonts, film grain, uneven lines, monochrome colors, and "amateur" photograph errors. Adding some noise to your slides adds visual interest and garners greater attention.</p>
 <h3>Ant Fonts (Antipattern)</h3>
-<p>Don’t use tiny fonts in a desire to cram more information on a slide. Slide size is completely arbitrary and has no relationship to the proper size of the content. If you ever think (or worse, say) “You probably can’t read this in the back,” you’ve failed your audience. Slides with unreadable fonts often result from “helpful” software that modifies font size as you add more content. You don’t get bonus points for using fewer slides.</p>
+<p>Don’t use tiny fonts in a desire to cram more information on a slide. Slide size is completely arbitrary and has no relationship to the proper size of the content. If you ever think (or worse, say) "You probably can’t read this in the back," you’ve failed your audience. Slides with unreadable fonts often result from "helpful" software that modifies font size as you add more content. You don’t get bonus points for using fewer slides.</p>
 </section>
 <section><div class='glossdiv' title='B'>
 <h2 class='title'>B</h2>
@@ -109,7 +109,7 @@ tagline: Glossary of Patterns
 <h3>Floodmarks (Antipattern)</h3>
 <p>Floodmarks are marketing and branding headers, footers, and watermarks that invade the content area of the slide. Your audience won’t forget who you work for or the name of the conference during the course of your talk. Egregious instances of this antipattern lead to several other antipatterns by occupying valuable real estate.</p>
 <h3>Fontaholic (Antipattern)</h3>
-<p>A Fontaholic is someone who believes using a cacophony of fonts will “jazz up” a presentation. Disharmonic fonts are jarring. They make presentations gruesome and more difficult to read.</p>
+<p>A Fontaholic is someone who believes using a cacophony of fonts will "jazz up" a presentation. Disharmonic fonts are jarring. They make presentations gruesome and more difficult to read.</p>
 <h3>Foreshadowing</h3>
 <p>Like foreshadowing in literature, this pattern adds elements early in a talk to seed an idea that will be resolved (hopefully with more resonance) later.</p>
 <h3>Fourthought</h3>
@@ -129,7 +129,7 @@ tagline: Glossary of Patterns
 <h3>Hecklers (Antipattern)</h3>
 <p>An audience of any substantial size will have individuals that aim to gain recognition through attacks on the presenter’s premise, approach, or discoveries. Coping with them requires preparation, a cool head, and decisive action. Dealing decisively with hecklers keeps the presentation on track and protects the congenial members of the audience.  </p>
 <h3>Hiccup Words (Antipattern)</h3>
-<p>Hiccup Words are involuntary exclamations (“Ummm,” “Ahhh,” etc.) that distract and detract from the presentation. Dead air isn’t a cardinal sin, and it’s unlikely anyone in your audience will break into a presentation just because you paused.</p>
+<p>Hiccup Words are involuntary exclamations ("Ummm," "Ahhh," etc.) that distract and detract from the presentation. Dead air isn’t a cardinal sin, and it’s unlikely anyone in your audience will break into a presentation just because you paused.</p>
 </section>
 <section><div class='glossdiv' title='I'>
 <h2 class='title'>I</h2>
@@ -138,21 +138,21 @@ tagline: Glossary of Patterns
 <h3>Intermezzi</h3>
 <p>Presentations should be made up of logical parts in the form of a Triad or Narrative Arc shape. Sometimes, these sections necessitate a color change, thematic shift, or outline introduction to clearly signal the beginning or ending of an act. This pattern is an implementation of the Context Keeper pattern and is similar to Bookends but is used during the course of the presentation to wrap sections, as opposed to wrapping the entire presentation.</p>
 <h3>Injured Outlines (Antipattern)</h3>
-<p>Outlines should never have a single point at an indent level; don’t create bullet points that have only one sub-bullet. Bullets in presentations mimic outlines and it “looks” grammatically incorrect to have orphan bullets.</p>
+<p>Outlines should never have a single point at an indent level; don’t create bullet points that have only one sub-bullet. Bullets in presentations mimic outlines and it "looks" grammatically incorrect to have orphan bullets.</p>
 <h3>Invisibility</h3>
 <p>This pattern uses invisible elements that don’t appear on printed versions of the slides but are revealed throughout your talk. This preserves a sense of surprise when you are forced to provide handouts (Slideuments?) in advance of your talk. </p>
 </section>
 <section><div class='glossdiv' title='K'>
 <h2 class='title'>K</h2>
 <h3>Know Your Audience</h3>
-<p>Preparing a great presentation is lost if you present it to the “wrong” audience. Seek data on your attendees; their occupations, relative ages, comfort level with the material, and general background. Tune your material to match as many of the attending demographics as possible.</p>
+<p>Preparing a great presentation is lost if you present it to the "wrong" audience. Seek data on your attendees; their occupations, relative ages, comfort level with the material, and general background. Tune your material to match as many of the attending demographics as possible.</p>
 </section>
 <section><div class='glossdiv' title='L'>
 <h2 class='title'>L</h2>
 <h3>Laser Weapons (Antipattern)</h3>
-<p>Laser pointers are generally a crutch for identifying content elements on a slide that could otherwise be emphasized by Traveling Highlights or as an attempt to explain a slide that “you probably can’t read in the back.”</p>
+<p>Laser pointers are generally a crutch for identifying content elements on a slide that could otherwise be emphasized by Traveling Highlights or as an attempt to explain a slide that "you probably can’t read in the back."</p>
 <h3>Leet Grammars</h3>
-<p>Leet Grammars refers to correctly using appropriate slang, jargon, and other “insider” colloquialisms in your presentation to bond with your audience.</p>
+<p>Leet Grammars refers to correctly using appropriate slang, jargon, and other "insider" colloquialisms in your presentation to bond with your audience.</p>
 <h3>Lightning Talk</h3>
 <p>Lightning Talk is a timed presentation, usually five minutes long and optionally constrained by aspecific number of slides. In many formats, the slides advance automatically.</p>
 <h3>Lightsaber</h3>
@@ -164,7 +164,7 @@ tagline: Glossary of Patterns
 <h3>Live Demo</h3>
 <p>Live Demo is running the product live in front of the audience. Thought of as a way to gain credibility and actively promote the product, this approach carries the significant risk of a failing demo. The return on investment is rarely worth the risk.</p>
 <h3>Live on Tape</h3>
-<p>This term refers to a recorded version of your entire presentation provided electronically. More effective and interactive than the standard “saving your presentation as a PDF.” </p>
+<p>This term refers to a recorded version of your entire presentation provided electronically. More effective and interactive than the standard "saving your presentation as a PDF." </p>
 </section>
 <section><div class='glossdiv' title='M'>
 <h2 class='title'>M</h2>
@@ -178,7 +178,7 @@ tagline: Glossary of Patterns
 <h3>Narrative Arc</h3>
 <p>Presentations are a form of storytelling; don’t ignore a few thousand years of oratory history. A Narrative Arc is a common trope; organizing your presentation in a similar way leverages your audience’s lifetime of story listening experience. </p>
 <h3>Negative Ignorance (Antipattern)</h3>
-<p>Never pose a question to the audience in the form of “Who here is not familiar with X?” People dislike admitting ignorance, especially in a circle of their peers. And turning it to a positive question isn’t much better.</p>
+<p>Never pose a question to the audience in the form of "Who here is not familiar with X?" People dislike admitting ignorance, especially in a circle of their peers. And turning it to a positive question isn’t much better.</p>
 </section>
 <section><div class='glossdiv' title='P'>
 <h2 class='title'>P</h2>
