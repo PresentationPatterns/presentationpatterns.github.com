@@ -8,6 +8,7 @@ tagline: Glossary of Patterns
 
 <h1>Glossary</h1>
 
+<section>
 <p>Pattern Names are the very <i>raison d'être</i> of the book. They are
 		meant to be always memorable, generally descriptive,
 		and occasionally humorous. Our observation is that once a behavior, product, or idea
@@ -42,6 +43,7 @@ tagline: Glossary of Patterns
 
 <p>Feedback and comments are welcomed. Just drop the authors an email at <a href="mailto:info@presentationpatterns.com">info@presentationpatterns.com</a> or a tweet to <a href="http://twitter.com/ppatterns">@ppatterns</a></p>
 
+</section>
 
 {% include PP/generated_glossary.html %}
 	
