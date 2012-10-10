@@ -11,12 +11,12 @@ title: Home
 	<p itemprop="description"><span itemtype="http://schema.org/Person">Neal Ford</span>, <span itemtype="http://schema.org/Person">Matthew McCullough</span>, and <span itemtype="http://schema.org/Person">Nate Schutta</span> sat down four years
 	ago at a table and discussed how to collect, write about, and
 	share the knowledge of many presenters with the world of
-	occasional and frequent presenters. The result is this book:	<a
+	occasional and frequent presenters. The result is this book: <a
 	href="http://www.informit.com/store/product.aspx?isbn=0321820800" >Presentation
 	Patterns</a>.</p>
 
 	<div class="buttonSet" itemscope="itemscope" itemtype="http://schema.org/WebPage">
-		<a href="/book" itemprop="url">Read more</a> 
+		<a href="/book/" itemprop="url">Read more</a> 
 		<a
 			href="http://www.amazon.com/Presentation-Patterns-Techniques-Crafting-Presentations/dp/0321820800/ref=sr_1_1?ie=UTF8&qid=1345753066&sr=8-1&keywords=Presentation+Patterns" itemprop="url">Order
 			from Amazon</a>
