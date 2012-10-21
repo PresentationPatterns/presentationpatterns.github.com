@@ -18,7 +18,7 @@ author :
   twitter : ppatterns
 
 pathing:
-  baseURL: /~jordanm/presentationpatterns/_site
+  #baseURL: /~jordanm/presentationpatterns/_site
   #baseURL: /
 
 domain: presentationpatterns.com
