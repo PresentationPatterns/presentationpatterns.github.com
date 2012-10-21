@@ -31,7 +31,7 @@
 
 header{
 	height:  9em;
-	padding-bottom: 1em;
+	/*padding-bottom: 1em;*/
 	margin-bottom: -1em;
 	background: #fff;
 	border-bottom:  solid 1px #ddd;
@@ -104,9 +104,11 @@ header .blogTicker ul{
 
 nav{
 	/*position: absolute;*/
-	display: inline;
+	/*display: inline;*/
 	width:  70%;
-	float: left;
+	/*float: left;*/
+	position: absolute;
+	left: 30%;
 }
 	nav li{
 		padding-top: .5em;
@@ -115,7 +117,7 @@ nav{
 		-moz-transition: all 200ms ease-in-out;
 		
 		float: left;
-		width: 15%;
+		width: 11%;
 		margin: 0 2.5%;
 		height: 6.5em;
 		
@@ -130,7 +132,7 @@ nav{
 	}
 	nav li:hover{
 		background-position: center -20%;
-		padding-bottom: 1em;
+		padding-bottom: .75em;
 		border-bottom:  solid 1px #ddd;
 	}
 	nav ul{
@@ -166,6 +168,10 @@ nav{
 		
 		nav .blog{
 			background: url(../images/module/nav/blog.png) no-repeat center 80% #fff;
+		}
+
+		nav .resources{
+			background: url(../images/module/nav/resources.png) no-repeat center 80% #fff;
 		}
 	
 article.tagline{
