@@ -5,7 +5,7 @@ tagline  : Sam Hogarth, a recent reader of the Presentation Patterns book, imple
 category : community
 tags     : [sample, tips]
 ---
-We were excited to see Sam Hogarth recently post [his implementationn](http://samhogy.co.uk/2012/09/the-exuberant-title-top-pattern-in-powerpoint/) of [Exuberant Title Top](http://presentationpatterns.com/glossary/#exuberanttitletop). [His tweet](http://twitter.com/samhogy/status/250616433476784128) that announced this read:
+We were excited to see Sam Hogarth recently post [his implementation](http://samhogy.co.uk/2012/09/the-exuberant-title-top-pattern-in-powerpoint/) of [Exuberant Title Top](http://presentationpatterns.com/glossary/#exuberanttitletop). [His tweet](http://twitter.com/samhogy/status/250616433476784128) that announced this read:
 
 
 > I had a go at implementing the 'exuberant title top' pattern from @ppatterns - get my version from _my site_ and buy the book ;)
