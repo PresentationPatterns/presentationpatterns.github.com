@@ -30,7 +30,7 @@
 	}
 
 header{
-	height:  9em;
+	height:  9.5em;
 	/*padding-bottom: 1em;*/
 	margin-bottom: -1em;
 	background: #fff;
@@ -119,20 +119,20 @@ nav{
 		float: left;
 		width: 11%;
 		margin: 0 2.5%;
-		height: 6.5em;
+		height: 6.25em;
 		
-		-ms-border-radius: 0em 0em 4em 4em / 2em 0em 2em 2em;
+/*		-ms-border-radius: 0em 0em 4em 4em / 2em 0em 2em 2em;
 		-moz-border-radius: 0em 0em 4em 4em / 2em 0em 2em 2em;
 		-webkit-border-radius: 0em 0em 4em 4em / 2em 0em 2em 2em;
-		-o-border-radius: 0em 0em 4em 4em / 2em 0em 2em 2em;
-		border-radius: 0em 0em 4em 4em / 2em 0em 2em 2em;
+		-o-border-radius: 0em 0em 4em 4em / 2em 0em 2em 2em;*/
+		border-radius: 2em / 1em;
 		
 		
 		background: #fff;
 	}
 	nav li:hover{
 		background-position: center -20%;
-		padding-bottom: .75em;
+		padding-bottom: .5em;
 		border-bottom:  solid 1px #ddd;
 	}
 	nav ul{
