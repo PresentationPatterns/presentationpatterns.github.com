@@ -18,7 +18,7 @@ title: Home
 	<div class="buttonSet" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 		<a href="/book/" itemprop="url">Read more</a> 
 		<a
-			href="http://www.amazon.com/Presentation-Patterns-Techniques-Crafting-Presentations/dp/0321820800/ref=sr_1_1?ie=UTF8&qid=1345753066&sr=8-1&keywords=Presentation+Patterns" itemprop="url">Order
+			href="http://www.amazon.com/Presentation-Patterns-Techniques-Crafting-Presentations/dp/0321820800/ref=sr_1_1?ie=UTF8&amp;qid=1345753066&amp;sr=8-1&amp;keywords=Presentation+Patterns" itemprop="url">Order
 			from Amazon</a>
 	</div>
 </article>
