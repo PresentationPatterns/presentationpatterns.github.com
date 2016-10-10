@@ -1,3 +1,5 @@
+----
+----
 #container{
 
 	}
@@ -93,7 +95,7 @@
 			}
 			
 			nav .book{
-				background: url(../images/module/nav/book.png) no-repeat 3% top;
+				background: url(../images/nav/book.png) no-repeat 3% top;
 				-ms-background-size: auto auto;
 				-moz-background-size: auto auto;
 				-webkit-background-size: auto auto;
@@ -101,8 +103,8 @@
 				background-size: auto auto;
 			}
 			
-			nav .glossary{
-				background: url(../images/module/nav/glossary.png) no-repeat 3% top;
+			nav .bio{
+				background: url({{site.url}}/images/nav/bio.png) no-repeat 3% top;
 				-ms-background-size: auto auto;
 				-moz-background-size: auto auto;
 				-webkit-background-size: auto auto;
