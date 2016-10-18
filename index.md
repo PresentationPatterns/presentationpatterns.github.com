@@ -8,10 +8,13 @@ title: Home
 
 ---
 
+<article>
+
 # Techniques for Crafting Better Presentations
 
 [Neal Ford](http://nealford.com), Matthew McCullough, and Nate Schutta sat down four years ago at a table and discussed how to collect, write about, and share the knowledge of many presenters with the world of occasional and frequent presenters. The result is this book: [Presentation Patterns](http://www.informit.com/store/product.aspx?isbn=0321820800). [Read more](/book/).
 
+</article>
 
 # Why?
 
